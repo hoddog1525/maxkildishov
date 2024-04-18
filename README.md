@@ -2,4 +2,10 @@
 
 ## Я начинающий тестировщик 
 
-Langueages and Tools
+## Langueages and Tools
+![Postman](postman)
+![MySQL](hmysql)
+![AzureDevOps](azuredevops)
+![Swagger](swagger)
+![Git](git)
+![JiraSoftware](jirasoftware)
