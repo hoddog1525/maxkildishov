@@ -1,4 +1,4 @@
-![Header](https://github.com/hoddog1525/maxkildishov/blob/main/assets/molnia.jpg)
+![Header](https://github.com/hoddog1525/maxkildishov/blob/main/assets/lightningplate.png)
 
 # Я начинающий тестировщик 
 
